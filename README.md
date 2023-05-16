@@ -1,5 +1,7 @@
 # DOM-Document-Object-Model
 
+![freelance](https://github.com/zsibisi/DOM-Document-Object-Model/assets/107902020/ef2775f9-63df-4f39-b615-5ca97dcea366)
+
 In this assignment, we are working on creating a web page using HTML, JavaScript, and CSS. The main goal is to build a web page that displays a list of freelancers and apply some styling to enhance the visual appearance.
 
 To start, we need to create an index.html file and set up a basic HTML structure. This includes declaring the document type, creating the HTML and body tags, and adding a single div element with an ID of "root." This div will serve as the container for our content.
